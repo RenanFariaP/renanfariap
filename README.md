@@ -5,7 +5,9 @@
 
 - 🌱 Atualmente estou aprendendo sobre **React, JavaScript, Angular**
 
-- 👯 Faço alguns freelas como dev [Lembretes](https://notes-project-lake.vercel.app/)
+- Projeto React (aplicação de conceitos) [Lembretes](https://notes-project-lake.vercel.app/)
+
+- Projeto JavaScript (aplicação de conceitos) [Serviços Agrícolas](https://produtos-agricolas.vercel.app/)
 
 - 💬 Me pergunte sobre **HTML, CSS, JavaScript, React, Angular**
 
